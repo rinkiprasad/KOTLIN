@@ -1,1 +1,2 @@
-# KOTLIN---PROGRAMMING
+# KOTLIN
+Sample repository for learning Kotlin
